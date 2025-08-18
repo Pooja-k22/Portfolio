@@ -13,7 +13,7 @@ const items = [
     bullets: [
       "Strong foundation in problem‑solving and analytical skills.",
       "Participated in technical workshops and projects.",
-      "Prepared for competitive & technical exams post‑graduation.",
+     
     ],
   },
   {
