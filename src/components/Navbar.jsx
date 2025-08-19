@@ -26,7 +26,6 @@ const Navbar = () => {
         href="/Pooja_K_Resume.pdf"
         target="_blank"
         rel="noopener noreferrer"
-        download="Pooja_K_Resume.pdf"
         className="hidden md:inline bg-[#06B6D4] hover:bg-cyan-400 text-white px-4 py-1 rounded-full transition duration-300"
       >
         Resume
@@ -49,7 +48,6 @@ const Navbar = () => {
             href="/Pooja_K_Resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
-            download="Pooja_K_Resume.pdf"
             className="bg-[#06B6D4] hover:bg-cyan-400 text-white px-4 py-1 rounded-full transition duration-300"
           >
             Resume
